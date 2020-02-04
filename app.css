@@ -18,7 +18,7 @@ img{
 height: 500px;
 border-radius: 50%;
 }
-
+/*references the Container made in HTML*/
 #container{
   display: flex;
   flex-direction: column;
